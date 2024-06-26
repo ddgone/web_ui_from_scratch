@@ -128,7 +128,7 @@ def download_driver(browser_name, driver_version=None):
 
 
 if __name__ == '__main__':
-    # 示例，不设置驱动版本，默认下载最新版本
+    # 示例，不设置驱动版本，默认下载最新版本，请保证本地浏览器更新到最新版
     download_driver("chrome")
     download_driver("firefox")
     download_driver("edge")
