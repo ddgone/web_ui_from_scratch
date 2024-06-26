@@ -1,0 +1,6 @@
+{
+    "login": {
+        "username": "test_user",
+        "password": "secure_password"
+    }
+}

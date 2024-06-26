@@ -1,0 +1,8 @@
+{
+    "chrome": {
+        "driver_path": "drivers/chromedriver"
+    },
+    "firefox": {
+        "driver_path": "drivers/geckodriver"
+    }
+}
