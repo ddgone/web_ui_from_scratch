@@ -1,0 +1,7 @@
+search_box:
+  by: css
+  value: '#kw'
+
+search_button:
+  by: css
+  value: '#su'
